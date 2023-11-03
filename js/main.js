@@ -30,3 +30,10 @@ function start()
 }
 
 start()
+
+function student2Haiku(){
+    console.log("haiku by:","AUTHOR");
+    console.log("heyo");
+    console.log("sup");
+    console.log("helloio");
+}
