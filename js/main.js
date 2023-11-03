@@ -33,9 +33,10 @@ function start()
 
 start()
 
+
 function student1Haiku(){
-    console.log("another");
-    console.log("day");
-    console.log("another");
+    console.log("heyo");
+    console.log("sup");
+    console.log("helloo");
     console.log("slay");
 }
